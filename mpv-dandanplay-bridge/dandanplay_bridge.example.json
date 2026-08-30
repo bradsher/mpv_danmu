@@ -1,0 +1,13 @@
+{
+  "app_id": "YOUR_APP_ID",
+  "app_secret": "YOUR_APP_SECRET",
+  "api_base": "https://api.dandanplay.net",
+  "cache_dir": "cache",
+  "comment_cache_ttl_hours": 24,
+  "font_name": "Microsoft YaHei",
+  "font_size": 38,
+  "scroll_duration": 8,
+  "play_res_x": 1920,
+  "play_res_y": 1080,
+  "max_comments": 12000
+}
